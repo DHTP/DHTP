@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DHTP
 - 👀 I’m interested in job position as a dev jr
-- 🌱 I’m currently learning html, js, css
+- 🌱 I’m currently learning html, js, css, nodejs
 - 💞️ I’m looking to collaborate on any project as it will be my first job as a dev
 - 📫 How to reach me danielhtpedrosa@hotmail.com
 
